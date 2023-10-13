@@ -30,7 +30,7 @@ Le site est développé en utilisant les technologies web suivantes :
 
 - HTML, CSS, Bootstrap, Twig pour la partie frontend
 - JavaScript pour l'API du quizz
-- Symfony et Twig pour la partie backend
+- Symfony 5.4.22 , PHP 7.4.3 et Twig pour la partie backend
 - MariaDB pour la base de données
 
 ## Déploiement
